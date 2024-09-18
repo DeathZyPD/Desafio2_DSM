@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303770286706",
+    "project_id": "kotlin-fire-a832d",
+    "storage_bucket": "kotlin-fire-a832d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303770286706:android:d4af4888333da3147960eb",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrAPEczxYVbDT7ZB3IQoHUXqzy81FKRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

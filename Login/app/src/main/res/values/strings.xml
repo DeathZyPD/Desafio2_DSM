@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login</string>
+
+        <string name="email_hint">Correo Electrónico</string>
+        <string name="password_hint">Contraseña</string>
+        <string name="register_button">Registrar</string>
+        <string name="login_button">Autenticar</string>
+        <string name="view_cart_button">Ver Carrito</string>
+        <string name="logout">Cerrar Sesión</string>
+        <string name="product_name">Nombre del Producto</string>
+        <string name="product_price">Precio</string>
+        <string name="total_amount">Total: $0</string>
+        <string name="purchase_successful">Compra realizada con éxito!</string>
+        <string name="error_loading_products">Error cargando productos: %1$s</string>
+        <string name="error_signing_up">Error al registrar: %1$s</string>
+    <!-- Texto para el total -->
+    <string name="total_label">Total:</string>
+
+    <!-- Texto para el mensaje de compra exitosa -->
+    <string name="btn_purchase">Comprar</string>
+    <string name="purchase_success">Compra realizada con éxito</string>
+    </resources>
+
+
+
